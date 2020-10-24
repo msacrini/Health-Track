@@ -1,0 +1,4 @@
+- Tela de Login (logo, CPF, senha, cadastre-se, esqueci a senha)
+- Home
+- Inserir Peso
+- Inserir Atividade Física
